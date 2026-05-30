@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchcncrypt",
+        "uuid": 2782173,
+        "checksum": "tswcmd"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
